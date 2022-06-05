@@ -1,0 +1,24 @@
+{
+    "employeDetails": [
+      {
+        "name": "IMRAN KHAN",
+        "age": "25",
+        "address": "RAMGARH",
+        "department": "developer",
+        "salary": "50000",
+        "maritalStatus": "false",
+        "image": "",
+        "id": 1
+      },
+      {
+        "name": "Aman",
+        "age": "25",
+        "address": "RAMGARH",
+        "department": "developer",
+        "salary": "50000",
+        "maritalStatus": "true",
+        "image": "",
+        "id": 2
+      }
+    ]
+  }  
